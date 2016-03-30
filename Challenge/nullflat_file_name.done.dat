@@ -1,0 +1,70 @@
+[
+Salesman Class Attributes:
+CPF: 1234567891234
+Name: Diego
+Salary: 50000.0
+, 
+Salesman Class Attributes:
+CPF: 3245678865434
+Name: Renato
+Salary: 40000.99
+][
+Customer Class Attributes:
+Name: Jose da Silva
+CNPJ: 2345675434544345
+Business Area: Rural
+, 
+Customer Class Attributes:
+Name: Eduardo Pereira
+CNPJ: 2345675433444345
+Business Area: Rural
+][
+Sale Class Attributes:
+idSale: 10
+Salesman Name: Diego
+List Itens Sale: 
+idItem: 1
+Item Quantity: 10
+Price: 100.0
+
+
+idItem: 2
+Item Quantity: 30
+Price: 2.5
+
+
+idItem: 3
+Item Quantity: 40
+Price: 3.1
+
+
+, 
+Sale Class Attributes:
+idSale: 8
+Salesman Name: Renato
+List Itens Sale: 
+idItem: 1
+Item Quantity: 34
+Price: 10.0
+
+
+idItem: 2
+Item Quantity: 33
+Price: 1.5
+
+
+idItem: 3
+Item Quantity: 40
+Price: 0.1
+
+
+]
+Quantity Customers in list: 2
+
+Quantity salesman in list: 2
+
+Most Expensive sale id: 10
+Total Value Sale: 1199.0
+
+Worst Salesman ever is: Renato
+Total Value Sale: 393.5
